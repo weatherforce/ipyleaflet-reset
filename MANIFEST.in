@@ -1,0 +1,2 @@
+recursive-include ipyleaflet_reset/static *.*
+include ipyleaflet-reset.json
